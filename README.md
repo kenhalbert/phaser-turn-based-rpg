@@ -11,4 +11,5 @@ Move: WASD
 
 ## Battle mode
 Change menu selection: arrow keys
+
 Confirm selection: space
